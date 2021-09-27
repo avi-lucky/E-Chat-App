@@ -1,5 +1,4 @@
-const { profile } = require('console');
-const socket = require('http://localhost:8000');
+// const socket = require('http://localhost:8000');
 
 const form = document.getElementById('send-container')
 const messageInput = document.getElementById('messageInp')
