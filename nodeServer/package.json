@@ -1,0 +1,15 @@
+{
+    "name": "nodeserver",
+    "version": "1.0.0",
+    "description": "A simple chat app using Socket.IO",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "Avikal Shukla",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^2.0.13",
+        "socket.io": "^4.2.0"
+    }
+}
